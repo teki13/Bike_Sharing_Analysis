@@ -1,4 +1,4 @@
 # Bike_Sharing_Analysis
-A study of the distribution of bike hires
 
-This project is a group assignment that is part of a statistics class.
+
+The purpose of this group project, which is being conducted as part of a statistics class, is to examine the distribution of bike rentals during the summer and spring seasons through hypothesis testing.
